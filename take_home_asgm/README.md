@@ -5,7 +5,7 @@ This is a simple Order Management Application using Flutter. No data persistence
 
 ✅ Flutter Project Setup  
 ✅ Core Functionality  
-✅ User Interface
+✅ User Interface  
 ✅ End to end tests
 
 
