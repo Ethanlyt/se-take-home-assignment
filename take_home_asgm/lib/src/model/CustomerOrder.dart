@@ -24,6 +24,6 @@ class CustomerOrder {
 
   void resetOrder() {
     status = OrderStatus.PENDING;
-    processingTime = 5;
+    processingTime = 10;
   }
 }
